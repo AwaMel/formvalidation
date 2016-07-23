@@ -1,0 +1,30 @@
+#wrapper{
+	width: 35%;
+	margin: 50px auto;
+	padding: 20px;
+	background: #EFFFE0;
+}
+form{
+	width: 50%;
+	margin: 100px auto;
+
+}
+form div{
+	margin: 3px auto;
+}
+.textInput{
+	margin-top: 2px;
+	height: 28px;
+	border: 1px solid #5E6E66;
+	font-size: 16px;
+	padding: 1px;
+	width: 100%;
+
+}
+.btn{
+	padding: 7px;
+	width: 100%;
+}
+.val_error{
+	color: #FF1F1F;
+}
